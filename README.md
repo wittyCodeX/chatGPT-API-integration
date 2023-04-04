@@ -1,1 +1,1 @@
-# chatGPT-API-integration
+# ChatGPT-API-integration
